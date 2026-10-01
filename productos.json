@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": "777",
+        "nombre": "computadora",
+        "precio": 400.0
+    },
+    {
+        "codigo": "859",
+        "nombre": "cable",
+        "precio": 100.0
+    }
+]
